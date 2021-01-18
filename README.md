@@ -1,8 +1,5 @@
 ## Hello 👋
 
-
-------------
-
 My name is Teplinsky Maxim 🇷🇺 and I am passionate about websites
 
 - 📚 I am studying at Chelyabinsk State University, 4th grade of Computer Security 
