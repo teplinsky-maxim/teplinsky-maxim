@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Teplinsky Maxim 🇷🇺 and I am passionate about websites
+My name is Maxim Teplinsky 🇷🇺 and I am passionate about websites
 
 - 📚 I am studying at Chelyabinsk State University, 4th grade of Computer Security 
 - 💼 I am working as Full Stack Web Developer
