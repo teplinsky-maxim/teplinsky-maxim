@@ -1,6 +1,3 @@
-🇵🇱 backend developer from Poland
+🇷🇺 Backend developer from Russia
 
-️‍🌈 LGBTQIA++ 
-
-He\him
-
+Want a backend? Say so at [LinkedIn](https://www.linkedin.com/in/maxim-teplinsky/)
